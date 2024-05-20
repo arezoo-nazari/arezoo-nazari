@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi 👋 my name is arezoo nazari
 
-<!--
-**arezoo-nazari/arezoo-nazari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Artifical intelligence
+_________________________
 
-Here are some ideas to get you started:
+Python programmer in the field of artificial intelligence and interested
+in deep learning and web design and the topic of my master's project
+is Improving Quality of Density Based Clustring Algorithms using Deep
+learning methods.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+_________________________________
+
+skills
