@@ -10,6 +10,19 @@ in deep learning and web design and the topic of my master's project
 is Improving Quality of Density Based Clustring Algorithms using Deep
 learning methods.
 
+________________________________________
+
+Education
+
+MASTERS degree,
+SAHID BAHONAR KERMAN University,
+Artificial intelligence
+
+
+Bachelors degree,
+kerman University,
+Hardware computer engineering
+
 ______________________________________
 
 
